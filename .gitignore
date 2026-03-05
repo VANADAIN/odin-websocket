@@ -1,0 +1,25 @@
+# Odin build artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.pdb
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# AI
+CLAUDE.md
+.claude/
+.cursorrules
+.cursor/
+.aider*
+.copilot/
+.github/copilot-*
